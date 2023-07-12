@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bill-app/static/css/main.e6fac2d8.css",
+    "main.js": "/Bill-app/static/js/main.9fd82c75.js",
+    "static/js/787.79984173.chunk.js": "/Bill-app/static/js/787.79984173.chunk.js",
+    "index.html": "/Bill-app/index.html",
+    "main.e6fac2d8.css.map": "/Bill-app/static/css/main.e6fac2d8.css.map",
+    "main.9fd82c75.js.map": "/Bill-app/static/js/main.9fd82c75.js.map",
+    "787.79984173.chunk.js.map": "/Bill-app/static/js/787.79984173.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6fac2d8.css",
+    "static/js/main.9fd82c75.js"
+  ]
+}
