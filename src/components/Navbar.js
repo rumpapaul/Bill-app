@@ -5,6 +5,9 @@ export default function Navbar() {
    <>
       <div className="navbar">
         DIGITAL BILL
+         <div className="time">
+          {new Date().getMonth()+1+ "/" +new Date().getDate()+ "/" + new Date().getFullYear()}
+         </div> 
       </div>
    
    </>

@@ -13,7 +13,10 @@ body{
   justify-content: center;
   align-items: center;
   margin: 0 0 5vh 0;
-
+}
+.time{
+ margin: 0 2vw 0 3vw; 
+ color: rgb(255, 0, 179);
 }
 .info-container{
   background-color: rgb(39, 41, 41);
@@ -40,6 +43,16 @@ body{
   font-size: 1.6vw;
   color: aquamarine;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.name-input{
+  width: 15vw;
+  height: 4vh;
+  font-size: 1.5vw;
+}
+.address-input{
+  width: 19vw;
+  height: 4vh;
+  font-size: 1.5vw;
 }
 .bill-container{
   width: 100vw;
@@ -116,7 +129,7 @@ background-color: rgb(255, 153, 0);
 }
 .btn{
   display: inline-block;
- margin: 1vh 0 1vh 0;
+ margin: 3vh 0 3vh 0;
 
 }
 .multi{
